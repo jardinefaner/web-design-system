@@ -20,7 +20,7 @@ WhiteSmoke | #F5F5F5
 
 Name | Type | Styles
 --- | --- | ---
-Quicksand | Sans-serif | Variable
-Gowun Dodum | Sans-serif | 1
-Hahmlet | Serif | Variable
-Gowun Batang | Serif | 2
+Quicksand | Sans-serif | 300, 400, 700
+Gowun Dodum | Sans-serif | 400
+Hahmlet | Serif | 100, 400, 900
+Gowun Batang | Serif | 400, 700
