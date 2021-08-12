@@ -83,7 +83,7 @@ section h2 {
 .font-title {
   display: inline-block;
   width: 400px;
-  padding: 30px;
+  padding-right: 30px;
 }
 
 .font-title h3 {
